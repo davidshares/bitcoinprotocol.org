@@ -7,4 +7,4 @@ Contribute to the Bitcoin Cash FAQ page. To make changes to any Bitcoin Cash (BC
 
 > *Bitcoin Cash is ... lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id lacus vel nulla tristique gravida vitae sed est. Ut sagittis mattis sollicitudin. Cras egestas eleifend erat sed luctus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.*
 
-Accepted FAQs will be added to the page periodically. If there are issues, you'll be notified here on Github. 
+In the title make sure to say this is for the FAQs page. Accepted FAQs will be added to the page periodically. If there are issues, you'll be notified here on Github. 
