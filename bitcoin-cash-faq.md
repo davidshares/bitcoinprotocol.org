@@ -1,7 +1,7 @@
 # Bitcoin Cash FAQ page
 https://bitcoinprotocol.org/bitcoin-cash-faq
 
-Contribute to the Bitcoin Cash FAQ page. To make changes to any Bitcoin Cash (BCH) FAQs or to submit new FAQs, [submit a new issue](https://github.com/davidshares/bitcoinprotocol.org/issues). The formatting is simple, just add your new FAQ in question and answer format, like this:
+Contribute to the Bitcoin Cash FAQ page. To request changes to any Bitcoin Cash (BCH) FAQs or to submit new FAQs, [submit a new issue](https://github.com/davidshares/bitcoinprotocol.org/issues). The formatting is simple, just add your new FAQ in question and answer format, like this:
 
 > *What is Bitcoin Cash (BCH)?*
 
